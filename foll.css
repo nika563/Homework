@@ -1,0 +1,528 @@
+a{
+  text-decoration: none;
+  color: white;
+}
+.header{
+  background-color: #333;
+  color: white;
+  margin-top: -20px;
+  height: 100px;
+  width: 1350px;
+  margin-left: -10px;
+  display: flex;
+  <!--закреплённый элемент-->
+}
+.successful{
+  font-family: 'Merriweather', serif;
+  margin-top: 20px;
+  margin-left: 100px;
+  transition: color -1s ease-out;
+}
+.successful a:hover{
+  color: #FFA000;
+}
+.home{
+  margin-top: 25px;
+  margin-left: 1000px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  transition: color -1s ease-out;
+}
+.home a:hover{
+ color: #FFA000;
+}
+.facts{
+  margin-top: 25px;
+  margin-left: 50px;
+  font-family: 'Yanone Kaffeesatz', sans-serif; 
+  transition: color -1s ease-out; 
+}
+.facts a:hover{
+ color: #FFA000;
+}
+.me{
+  margin-top: 25px;
+  position: relative;
+  margin-left: -490px;
+}
+.img-successsful-people{
+  margin-left: -10px;
+  position: relative;
+}
+.modern{
+  margin-top: 100px;
+}
+.text{
+  position: absolute;
+  color: white;  
+  margin-left: 490px; 
+  margin-top: -350px; 
+  text-shadow: 0px 2px 0px black;
+}
+.button{
+  position: absolute;
+  background-color: blue;
+  border-radius: 100px;
+  color: white ;
+  height: 50px;
+  width: 200px;
+  margin-left: 540px;
+  margin-top: -250px;
+}
+.h3{
+  margin-left: 35px;
+  margin-top: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.button:hover{
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+.hr1{
+  color: grey;
+}
+.how{
+  font-family: 'Roboto Slab', serif;
+  margin-left: 400px;
+  margin-top: -50px;
+}
+.author-of-books{
+  font-family: 'Merriweather', serif;
+  margin-left: 1160px;
+}
+.peple{
+  color: grey;
+}
+.man-with-sunglasses{
+  margin-top: 50px;
+  margin-left: 20px;
+  position: relative;
+  float: left;
+}
+.society{
+  font-family: 'Alegreya', serif;
+  margin-left: 680px;
+  position: absolute;
+}
+.evaluate{
+  margin-top: 60px;
+  position: absolute;
+  margin-left: 650px;
+  color: grey;
+}
+.but{
+  position: absolute;
+  margin-top: 160px;
+  margin-left: 650px;
+  color: grey;
+}
+.rich{
+  position: absolute;
+  margin-top: 280px;
+  margin-left: 650px;
+  color: grey;
+}
+.hr2{
+  color: grey;
+  margin-top: 500px;
+}
+.cuple{
+  margin-top: 50px;
+  margin-right: 20px;
+  position: relative;
+  float: right;
+}
+.consider{
+  color: grey;
+  position: absolute;
+  margin-top: 32px;
+  margin-left: 10px;
+  margin-right: 620px;
+}
+.harmony{
+  position: absolute;
+  margin-top: 110px;
+  margin-left: 10px;
+  margin-right: 650px;
+}
+.basis{
+  font-family: 'Alegreya', serif;
+  position: absolute;
+  margin-top: 165px;
+  margin-left: 100px;
+}
+.always{
+  color: grey;
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 10px;
+  margin-right: 660px;
+}
+.future{
+  color: grey;
+  position: absolute;
+  margin-top: 320px;
+  margin-left: 10px;
+  margin-right: 630px;
+}
+.hr3{
+  color: grey;
+  margin-top: 500px;
+}
+
+.book{
+  margin-top: 50px;
+  margin-left: 20px;
+  position: relative;
+  float: left;
+}
+.caracteur{
+  color: grey;
+  position: absolute;
+  margin-top: 32px;
+  margin-left: 710px;
+}
+.mamories{
+  position: absolute;
+  margin-top: 110px;
+  margin-left: 710px;
+  margin-right: 20px;
+}
+.any{
+  color: grey;
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 710px;
+  margin-right: 20px;
+}
+.intelegent-man{
+  position: relative;
+  margin-left: -20px;
+}
+.reagle{
+  margin-left: 350px;
+  position: absolute;
+  margin-top: -339px;
+  text-shadow:  0px 2px 0px white;
+  font-family: 'Vollkorn', serif;
+}
+.strong{
+  font-family: 'Prata', serif;
+  margin-left: 350px;
+}
+.clothes{
+  color: grey;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.Psychotherapist{
+  color: grey;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.delete1{
+  color: grey;
+}
+.time{
+  position: relative;
+  margin-top: 0px;
+  margin-left: 50px;
+  float: left;
+}
+.waste-time{
+  font-family: 'Alice', serif;
+  position: absolute;
+  margin-top: 59px;
+  margin-left: 650px;
+}
+.see{
+  position: absolute;
+  color: grey;
+  margin-top: 120px;
+  margin-left: 500px;
+  margin-right: 40px;
+}
+.delete2{
+  color: grey;
+  margin-top: 400px;
+}
+.chechers{
+  margin-left:700px;
+  margin-right: 50px;
+  margin-top: 40px;
+  float: right;
+  position: relative;
+}
+.power{
+  font-family: 'Alice', serif;
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 80px;
+}
+.Strong-willed{
+  color: grey;
+  position: absolute;
+  margin-left: 20px;
+  margin-right: 540px;
+  margin-top: 150px;
+}
+.delete3{
+  color: grey;
+  margin-top: 400px;
+}
+.nature{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 40px;
+  margin-bottom: 50px;
+}
+.afraid-change{
+  position: absolute;
+  font-family: 'Alice', serif;
+  margin-left: 800px;
+  margin-top: -320px;
+}
+.fear{
+  position: absolute;
+  color: grey;
+  margin-left: 570px;
+  margin-top: -270px;
+  margin-right: 20px;
+}
+.delete4{
+  color: grey;
+}
+.moon{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 790px; 
+}
+.energy{
+  position: absolute;
+  font-family: 'Alice', serif;
+  margin-left: 10px;
+  margin-top: -300px;
+}
+.valise{
+  position: absolute;
+  color: grey;
+  margin-top: -230px;
+  margin-left: 30px; 
+  margin-right: 580px; 
+}
+.delete5{
+  color: grey;
+  margin-top: 50px;
+}
+.risk{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 30px;  
+}
+.worry{
+  position: absolute;
+  font-family: 'Alice', serif;
+  margin-left: 600px; 
+  margin-top: -270px; 
+}
+.familiar{
+  color: grey;
+  margin-left: 540px; 
+  margin-right: 20px;
+  margin-top: -200px;
+}
+.delete6{
+  color: grey;
+  margin-top: 120px;
+}
+.peple-with-risk{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 790px; 
+}
+.not{
+  position: absolute;
+  font-family: 'Alice', serif;
+  margin-left: 220px;
+  margin-top: -260px;
+}
+.weigh{
+  position: absolute;
+  color: grey;
+  margin-top: -200px;
+  margin-left: 30px; 
+  margin-right: 580px; 
+}
+.delete7{
+  margin-top: 50px;
+  color: grey;
+}
+.clock{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 30px;
+  margin-bottom: 30px;  
+}
+.past{
+  position: absolute;
+  font-family: 'Alice', serif;
+  margin-left: 750px; 
+  margin-top: -300px; 
+}
+.particular{
+  color: grey;
+  margin-left: 550px; 
+  margin-right: 20px;
+  margin-top: -230px;
+}
+.delete8{
+  margin-top: 150px;
+  color: grey;
+}
+.girl{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 790px; 
+}
+.repeate{
+  position: absolute;
+  font-family: 'Alice', serif;
+  margin-left: 220px;
+  margin-top: -250px;
+}
+.we{
+  position: absolute;
+  color: grey;
+  margin-top: -200px;
+  margin-left: 30px; 
+  margin-right: 580px; 
+}
+.delete9{
+  margin-top: 50px;
+  color: grey;
+}
+.dog{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 30px; 
+}
+.outher{
+  position: absolute;
+  font-family: 'Alice', serif;
+  margin-left: 680px; 
+  margin-top: -270px; 
+}
+.chanse{
+  color: grey;
+  margin-left: 580px; 
+  margin-right: 20px;
+  margin-top: -200px;
+}
+.delete10{
+  margin-top: 150px;
+  color: grey;
+}
+.peple-with-car{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 790px;
+}
+.after{
+  position: absolute;
+  font-family: 'Alice', serif;
+  margin-left: 200px;
+  margin-top: -280px;
+}
+.chaque{
+  position: absolute;
+  color: grey;
+  margin-top: -220px;
+  margin-left: 30px; 
+  margin-right: 580px; 
+}
+.delete11{
+  margin-top: 50px;
+  color: grey;
+}
+.sun{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 30px; 
+}
+.afraid{
+  position: absolute;
+  font-family: 'Alice', serif;
+  margin-left: 760px; 
+  margin-top: -270px;
+}
+.loneliness{
+  color: grey;
+  margin-left: 540px; 
+  margin-right: 20px;
+  margin-top: -200px;
+}
+.delete12{
+  margin-top: 150px;
+  color: grey;
+}
+.thingers{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 790px; 
+}
+.devoir{
+  position: absolute;
+  font-family: 'Alice', serif;
+  margin-left: 150px;
+  margin-top: -270px;
+}
+.think{
+  position: absolute;
+  color: grey;
+  margin-top: -200px;
+  margin-left: 30px; 
+  margin-right: 580px;
+}
+.delete13{
+  margin-top: 50px;
+  color: grey;
+}
+.time{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 40px; 
+}
+.result{
+  position: absolute;
+  font-family: 'Alice', serif;
+  margin-left: 700px; 
+  margin-top: 100px; 
+}
+.plan{
+  color: grey;
+  position: absolute;
+  margin-left: 550px; 
+  margin-right: 20px;
+  margin-top: 150px;
+}
+
+.block{
+  background-color: #333;
+  display: flex;
+  margin-left: -10px;
+  margin-bottom: -80px;
+  margin-top: 400px;
+  height: 60px;
+  width: 1350px;
+}
+.Thank{
+  color: white;
+  position: relative;
+  font-family: 'Merriweather', serif;
+  margin-left: 1000px;
+  margin-top: -5px;
+}
+.Thank:hover{
+  color: #FFD700;
+}
